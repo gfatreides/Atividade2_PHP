@@ -1,0 +1,19 @@
+* {
+    font-family: sans-serif;/*Formatando as fontes da página*/
+    box-sizing: border-box; /*Tamanho da caixa*/
+    margin: 0;/*Zerando as margens dos elementos*/
+}
+
+
+header{
+    padding: 1rem;
+    box-shadow: 0 5px 10px rgb(37,37,212);
+    position: sticky;   /*fixando o cabeçalho*/
+    top: 0;     /*Fixando no topo*/
+    left: 0;    /*Fixando à esquerda*/
+    background-color: rgb(247, 245, 245);    /*Cor de fundo*/    
+}
+
+#titulo {text-align: center;}
+#cabecalho {text-align: center;}
+#margem {margin-left: 0.2cm;}
